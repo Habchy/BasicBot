@@ -70,6 +70,13 @@ python3 -m pip install -U discord.py[voice]
 
 I would recommend the one with voice support so you have it just in case you need it. If you are not sure if you have discord.py run the prefered command just in case, there is no harm in doing so.
 
+**If you type one of the commands and it says:**
+```
+'python3' is not recognized as an internal or external command,
+operable program or batch file.
+```
+Just replace **python3** with **python**.
+
 # Support
 
 If you need help please join my Discord server: [Habchy's Lounge](https://discord.gg/FNNNgqb)
