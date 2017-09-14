@@ -1,8 +1,10 @@
 # BasicBot
+A basic example of a Discord Bot in Python.
+
+[![Banner](https://i.imgur.com/bpLVk10.png)](https://github.com/Habchy/BasicBot)
 
 **Note:** Before starting here please have a basic understand of how discord.py works!
-
-A basic example of a Discord Bot in Python.
+(If you don't please click [here](https://google.com))
 
 Basic Bot is created by Habchy#1665.
 
