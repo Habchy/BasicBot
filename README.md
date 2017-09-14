@@ -11,7 +11,7 @@ Everything you need is located in "Basic Bot.py" which is available above.
 For this code to work I would recommend for you to have **Python Version 3.6.0** installed.
 Want to learn how you can check your version? Click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#checking-your-python-version)!
 
-I would also recommend you have **Discord.py** downloaded. You can find the download link for that [here](https://github.com/Habchy/BasicBot#very-useful-links).
+I would also recommend you have **Discord.py** downloaded. You can find the download tutorial for that [here](https://github.com/Habchy/BasicBot#very-useful-links).
 
 # Very Useful Links
 Please use these links to your advantage, they will help you out!
@@ -54,6 +54,22 @@ Here are some download links for Python 3.6.0:
 * [Windows 32 and 64 Bit](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe)
 * [Windows 32 Bit Only](https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe)
 
+# How To Install Discord.py (Latest Version)
+
+If you don't plan on adding voice support (music or sfx) to your bot please run the command below in a Command Prompt window.
+
+```
+python3 -m pip install -U discord.py
+```
+
+If you plan on adding voice support (music or sfx) to your your bot please run the command below in a Command Prompt window.
+
+```
+python3 -m pip install -U discord.py[voice]
+```
+
+I would recommend the one with voice support so you have it just in case you need it. If you are not sure if you have discord.py run the prefered command just in case, there is no harm in doing so.
+
 # Support
 
 If you need help please join my Discord server: [Habchy's Lounge](https://discord.gg/FNNNgqb)
@@ -62,4 +78,4 @@ If BasicBot helped you please press the ★ (star) button above it helps me out!
 
 # A Little Message
 
-If you are a Discord Bot developer that codes in Discord.py (Python) and you would like to help out by adding something please feel free to contact me and I will try to get back to you as soon as possible. I open to criticism and suggestions as long as you know what you are talking about.
+If you are a Discord Bot developer that codes in Discord.py (Python) and you would like to help out by adding something please feel free to contact me and I will try to get back to you as soon as possible. I am open to criticism and suggestions as long as you know what you are talking about.
