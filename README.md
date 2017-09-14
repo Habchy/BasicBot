@@ -9,7 +9,9 @@ A basic example of a Discord Bot in Python.
 Everything you need is located in "Basic Bot.py" which is available above.
 
 For this code to work I would recommend for you to have **Python Version 3.6.0** installed.
-Want you learn how you can check your version? Click [here]()!
+Want you learn how you can check your version? Click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#checking-your-python-version)!
+
+I would also recommend you have **Discord.py** downloaded. You can find the download link for that [here](https://github.com/Habchy/BasicBot#very-useful-links)
 
 # Very Useful Links
 Please use these links to your advantage, they will help you out!
@@ -18,6 +20,7 @@ While using these links, please use BasicBot as a reference and always check out
 * [Official Discord.py Github](https://github.com/Rapptz/discord.py)
 * [Official Discord.py Documentation](https://discordpy.readthedocs.io/en/latest/)
 * [Official Discord.py FAQ](https://discordpy.readthedocs.io/en/latest/faq.html)
+* [Official Python Website](https://www.python.org/)
 * [Official Python Documentation](https://docs.python.org/3/)
 * [Official DiscordAPI Server](https://discord.gg/discord-api)
 
@@ -42,8 +45,14 @@ You can mess around with the permissions if you know what you're doing, but givi
 ![Inviting](https://i.imgur.com/850m0Oh.gif)
 
 # Checking Your Python Version
+Make sure you even have Python installed in the first place or this will not work.
 
 ![Pythonver](https://i.imgur.com/6Gs8c2A.png)
+
+Here are some download links for Python 3.6.0:
+
+* [Windows 32 and 64 Bit](https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe)
+* [Windows 32 Bit Only](https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe)
 
 # Support
 
