@@ -1,4 +1,7 @@
 # BasicBot
+
+**Note:** Before starting here please have a basic understand of how discord.py works!
+
 A basic example of a Discord Bot in Python.
 
 Basic Bot is created by Habchy#1665.
