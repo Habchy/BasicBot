@@ -1,16 +1,8 @@
-# These are the dependecies. The bot depends on these to function, hence the name.
+# These are the dependecies. The bot depends on these to function, hence the name. Please do not change these unless your adding to them.
 import discord
 import asyncio
 from discord.ext.commands import Bot
 from discord.ext import commands
-from urllib.parse import urlencode
-import datetime
-import time
-import random
-import os
-from ast import literal_eval
-import aiohttp
-import json
 
 # Here you can modify the bot's prefix and description and wether it sends help in direct messages or not.
 client = Bot (description="Basic Bot by Habchy#1665", command_prefix="PUT YOUR PREFIX HERE", pm_help = True)
