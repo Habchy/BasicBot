@@ -32,7 +32,7 @@ async def ping(*args):
 	await client.say(":ping_pong: Pong!")
 	await asyncio.sleep(3)
 	await client.say(":warning: This bot was created by **Habchy#1665**, it seems that you have not modified it yet. Go edit the file and try it out!")
-
+# After you have modified the code, feel free to delete the line above (line 34) so it does not keep popping up everytime you initiate the ping commmand.
 	
 client.run('PUT YOUR BOT TOKEN HERE')
 
