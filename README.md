@@ -9,7 +9,7 @@ A basic example of a Discord Bot in Python.
 Everything you need is located in "Basic Bot.py" which is available above.
 
 For this code to work I would recommend for you to have **Python Version 3.6.0** installed.
-Want you learn how you can check your version? Click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#checking-your-python-version)!
+Want to learn how you can check your version? Click [here](https://github.com/Habchy/BasicBot/blob/master/README.md#checking-your-python-version)!
 
 I would also recommend you have **Discord.py** downloaded. You can find the download link for that [here](https://github.com/Habchy/BasicBot#very-useful-links).
 
