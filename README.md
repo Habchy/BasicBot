@@ -5,9 +5,10 @@ A basic example of a Discord Bot in Python.
 
 ## Support
 
-If you need help please join my Discord server: [Habchy's Lounge](https://discord.gg/FNNNgqb)
+If you need help please join my Discord server: [Click here](https://discord.gg/j5SRg4d)
+![Support](https://discordapp.com/api/guilds/374071874222686211/widget.png)
 
-You can leave me or my support team a message in the **#supportchat-py** channel.
+You can ask for help in the **#python** channel. Under the support category!
 
 Do not leave a **Github Issue** here, I do not look at those.
 
