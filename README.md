@@ -17,3 +17,8 @@ If BasicBot helped you please press the ★ (star) button above it helps me out!
 ## Don't want to code your own bots?
 Invite a bot from the wide range selection of bots at Bots for Discord
 Visit the website using this link: [https://botsfordiscord.com/](https://botsfordiscord.com/)
+
+
+
+## Deprecated
+This is using a very old version of discord.py, please refer to other examples.
